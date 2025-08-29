@@ -40,5 +40,22 @@ Links             : {}
 ParsedHtml        : 
 RawContentLength  : 4536
 
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# (Optional) Data you don't want in Git
+data/
 
 
